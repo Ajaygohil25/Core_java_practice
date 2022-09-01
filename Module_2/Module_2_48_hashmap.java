@@ -1,0 +1,16 @@
+package Module_2;
+
+import java.util.HashMap;
+
+public class Module_2_48_hashmap
+{
+	public static void main(String[] args) 
+	{
+		HashMap h1= new HashMap();
+		h1.put(1, "java");
+		h1.put(2, "c++");
+		h1.put(3, "c");
+		h1.put(4, "php");
+		System.out.println(h1);
+	}
+}
